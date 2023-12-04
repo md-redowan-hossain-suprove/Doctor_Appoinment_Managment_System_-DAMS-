@@ -1,0 +1,32 @@
+C:\Users\NAHIN\Desktop\New folder (2)\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\NAHIN\Desktop\New folder (2)\project\project\obj\Debug\project.Emp_Reg.resources
+C:\Users\NAHIN\Desktop\New folder (2)\project\project\obj\Debug\project.Log_In.resources
+C:\Users\NAHIN\Desktop\New folder (2)\project\project\obj\Debug\project.Pat_Reg.resources
+C:\Users\NAHIN\Desktop\New folder (2)\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\NAHIN\Desktop\New folder (2)\project\project\obj\Debug\project.Reg.resources
+C:\Users\NAHIN\Desktop\New folder (2)\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\NAHIN\Desktop\New folder (2)\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\NAHIN\Desktop\New folder (2)\project\project\bin\Debug\project.exe.config
+C:\Users\NAHIN\Desktop\New folder (2)\project\project\bin\Debug\project.exe
+C:\Users\NAHIN\Desktop\New folder (2)\project\project\bin\Debug\project.pdb
+C:\Users\NAHIN\Desktop\New folder (2)\project\project\obj\Debug\project.exe
+C:\Users\NAHIN\Desktop\New folder (2)\project\project\obj\Debug\project.pdb
+C:\Users\Acer\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\Acer\Desktop\project\project\bin\Debug\project.exe
+C:\Users\Acer\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.Emp_Reg.resources
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.Log_In.resources
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.Pat_Reg.resources
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.Reg.resources
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.exe
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.pdb
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.Admin_Home.resources
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.Emp_Home.resources
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.Pat_Home.resources
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.Emp_Profile.resources
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.Pat_Profile.resources
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.Forget_pass.resources
